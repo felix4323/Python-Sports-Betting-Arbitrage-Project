@@ -12,10 +12,7 @@ The notebook explains the arbitrage calculation and stake allocation methodology
 
 ## Objectives
 
-The main objective of this project was to investigate potential drivers of sports betting arbitrage opportunities by comparing opportunities across:
-- Tournament Level
-- Surface
-- Round
+The main objective of this project was to investigate potential drivers of sports betting arbitrage opportunities by comparing arbitrage opportunities across different tournament levels, surfaces and rounds.
 
 A betting strategy was also backtested using historical odds to estimate theoretical profitability. 
 
