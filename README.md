@@ -7,6 +7,7 @@ This project investigates arbitrage opportunities in tennis betting markets usin
 ## What is a Sports Betting Arbitrage?
 
 A sports betting arbitrage occurs when differences in bookmaker odds create an opportunity to generate a theoretically guaranteed profit by placing bets on all possible outcomes.
+
 The notebook explains the arbitrage calculation and stake allocation methodology in detail.
 
 ## Objectives
