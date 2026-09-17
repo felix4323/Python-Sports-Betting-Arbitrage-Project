@@ -1,8 +1,8 @@
 # Python Sports Betting Arbitrage Project
 
-Python project analysing sports betting arbitrage opportunities across 3,100 professional men’s tennis matches.
+Python project analysing sports betting arbitrage opportunities across 3,100 professional men's tennis matches using historical best available closing odds.
 
-This project investigates arbitrage opportunities in tennis betting markets using historical closing odds. The analysis examines how arbitrage opportunities vary across tournament level, surface, and round, and includes a backtest of an arbitrage betting strategy.
+This project investigates how arbitrage opportunities vary across tournament level, surface, and round, and includes a backtest of an arbitrage betting strategy.
 
 ## What is a Sports Betting Arbitrage?
 
@@ -12,7 +12,7 @@ The notebook explains the arbitrage calculation and stake allocation methodology
 
 ## Objectives
 
-The main objective of this project was to investigate potential drivers of sports betting arbitrage opportunities by comparing arbitrage opportunities across different tournament levels, surfaces and rounds.
+The main objective of this project was to investigate potential drivers of sports betting arbitrage opportunities by comparing arbitrage opportunities across different tournament levels, surfaces, and rounds.
 
 A betting strategy was also backtested using historical odds to estimate theoretical profitability. 
 
